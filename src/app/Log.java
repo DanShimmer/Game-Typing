@@ -1,5 +1,5 @@
 /* Name: Phạm Đăng Quang - ITCSIU21147
- Purpose: 
+ Purpose: This should get the date and time when you open the game
 */
 package app;
 
