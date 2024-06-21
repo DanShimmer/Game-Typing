@@ -1,5 +1,5 @@
 /* Name: Phạm Đăng Quang - ITCSIU21147
- Purpose: This is the class that implement the features of the scoreboard section
+ Purpose: This is the class that implements the features of the player screen and scoreboard section
 */
 package app;
 
