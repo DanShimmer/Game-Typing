@@ -33,8 +33,8 @@ Step 3: Compile the source code:
 
 Ensure you have the JavaFX library path set up correctly. If you haven't already, download JavaFX from the official website and set the PATH_TO_FX variable to the location of your JavaFX library.
 
-javac --module-path $PATH_TO_FX --add-modules javafx.controls,javafx.fxml -d bin src/**/*.java
+javac --module-path $PATH_TO_FX --add-modules javafx.controls src/**/*.java
 
 Step 4: Run the application:
 
-java --module-path $PATH_TO_FX --add-modules javafx.controls,javafx.fxml -cp bin main.
+java --module-path $PATH_TO_FX --add-modules javafx.controls src/**/*
